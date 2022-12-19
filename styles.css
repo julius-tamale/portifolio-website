@@ -294,5 +294,10 @@ body {
     height: 100vh;
 }
 .section-title h2 {
-    color: red;
+    color: var(--color-one);
+    padding-top: 100px;
+    padding-left: 50px;
+    font-size: 40px;
+    font-weight: 700;
+    position: relative;
 }
