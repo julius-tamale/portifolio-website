@@ -15,4 +15,14 @@ body {
     font-family: 'Montserrat Alternates', sans-serif;
     font-size: 16px;
     line-height: 1.5;
+    background-color: hsl(0, 0%, 0%);
+    color: hsl(0, 0%, 100%);
+    overflow: hidden;
+}
+.main-content-container {
+    min-height: 100vh;
+    min-width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
